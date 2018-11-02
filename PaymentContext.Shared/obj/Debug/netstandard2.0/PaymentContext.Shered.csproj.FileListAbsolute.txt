@@ -1,0 +1,9 @@
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\bin\Debug\netstandard2.0\PaymentContext.Shered.deps.json
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\bin\Debug\netstandard2.0\PaymentContext.Shered.dll
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\bin\Debug\netstandard2.0\PaymentContext.Shered.pdb
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.csprojAssemblyReference.cache
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.csproj.CoreCompileInputs.cache
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.AssemblyInfoInputs.cache
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.AssemblyInfo.cs
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.dll
+T:\repositorio\2018\DotNetCoreMvc\PaymentContext\PaymentContext.Shered\obj\Debug\netstandard2.0\PaymentContext.Shered.pdb
